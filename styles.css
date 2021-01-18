@@ -1,0 +1,61 @@
+/* All text should have the same style of fonts */
+html {
+    font-family: "Helvetica", "Arial", sans-serif;
+    background-color: tan;
+}
+
+/*
+On the left should be the profile bar...
+On the right should be the timeline
+
+The profile bar should take up about maybe 20% of the width
+The timeline should take like 60%
+The remaining 20% can be dedicated to the margin
+*/
+
+main {
+    display: flex;
+    margin-bottom: 2%;
+}
+
+/* profile */
+.profile {
+    background-color: antiquewhite;
+    
+    padding-left: 2%;
+    padding-right: 2%;
+
+    text-align : center;
+
+    border: 10px brown inset;
+}
+
+.profile > img {
+    border: 5px goldenrod inset;
+}
+
+.profile > article > p {
+    text-align: left;
+}
+
+.profile > article > footer {
+    text-align: left;
+}
+
+/* timeline */
+.timeline {
+    background-color: antiquewhite;
+
+    padding-left: 2%;
+    padding-right: 2%;
+    
+    border: 10px brown inset;
+}
+
+.timeline > h2 {
+    font-size: 2rem;
+}
+
+
+
+
