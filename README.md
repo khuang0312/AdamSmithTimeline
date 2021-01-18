@@ -8,3 +8,5 @@ On the site, there is a brief profile of Adam Smith and a timeline detailing eve
 The site is meant to be simple in order to help me practice using HTML, CSS, and the Flexbox.
 I have learned quite a lot about web development, especially about the use of semantic elements
 and CSS selectors.
+
+![alt text](https://github.com/khuang0312/AdamSmithTimeline/blob/[branch]/image.jpg?raw=true)
