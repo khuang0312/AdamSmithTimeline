@@ -9,4 +9,4 @@ The site is meant to be simple in order to help me practice using HTML, CSS, and
 I have learned quite a lot about web development, especially about the use of semantic elements
 and CSS selectors.
 
-![alt text](https://github.com/khuang0312/AdamSmithTimeline/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/khuang0312/AdamSmithTimeline/blob/main/image.png?raw=true)
