@@ -11,6 +11,6 @@ The site is meant to be simple in order to help me practice using HTML, CSS, and
 I have learned quite a lot about web development, especially about the use of semantic elements
 and CSS selectors.
 
-This project is complete. 
+This project is complete. I might end up revising it at some point but for the most part, it is finished.
 
 
